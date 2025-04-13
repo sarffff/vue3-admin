@@ -1,0 +1,23 @@
+{
+  "id": "4867414",
+  "name": "vue3-admin",
+  "font_family": "iconfont",
+  "css_prefix_text": "pre-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36114544",
+      "name": "welcome",
+      "font_class": "welcome",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "43699111",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "101f4",
+      "unicode_decimal": 66036
+    }
+  ]
+}
